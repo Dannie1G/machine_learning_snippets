@@ -1,0 +1,10 @@
+# gitignore
+
+*.DS_Store
+*.ipynb_checkpoints
+__pycache__/
+
+
+*.dot
+*.csv
+*.tbi
